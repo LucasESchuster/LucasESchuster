@@ -12,6 +12,5 @@
 
 
 ### Now Playing — Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vxjtos6gptqa2m7txsrsmox5g&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=1db954&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=vxjtos6gptqa2m7txsrsmox5g&redirect=true)
-  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=vxjtos6gptqa2m7txsrsmox5g&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=vxjtos6gptqa2m7txsrsmox5g&redirect=true)
 
