@@ -35,7 +35,7 @@ align="left"
 alt="GitHub Stats"
 height="170"
 style="padding-right:10px;"
-src="https://github-readme-stats.vercel.app/api?username=LucasESchuster&show_icons=true&theme=radical&include_all_commits=true" />
+src="https://github-readme-stats.vercel.app/api?username=LucasESchuster&show_icons=true&theme=tokyonight&include_all_commits=true" />
 
 <img
 align="left"
