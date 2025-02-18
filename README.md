@@ -35,12 +35,12 @@ align="left"
 alt="GitHub Stats"
 height="170"
 style="padding-right:10px;"
-src="https://github-readme-stats.vercel.app/api?username=LucasESchuster&show_icons=true&theme=tokyonight&include_all_commits=true" />
+src="https://github-readme-stats.vercel.app/api?username=LucasESchuster&show_icons=true&theme=merko&include_all_commits=true&rank_icon=github" />
 
 <img
 align="left"
 alt="GitHub Stats"
 height="170"
 style="padding-right:10px;"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasESchuster&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10" />
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasESchuster&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=10" />
 </p>
