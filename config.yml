@@ -43,12 +43,9 @@ galaxy_arms:
 
 # Featured projects shown as constellation stars
 projects:
-  - repo: "vinimlo/tabAla"
+  - repo: "Universidade-Livre/ciencia-da-computacao"
     arm: 0
-    description: "Salve abas. Organize em coleções. Processe quando quiser."
-  - repo: "vinimlo/gaeia"
-    arm: 1
-    description: "Grupo Autônomo de Estudos em IA"
+    description: "Curso de ciência da computação"
 
 # Theme color overrides (optional — defaults to deep space palette)
 theme:
