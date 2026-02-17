@@ -5,49 +5,41 @@ username: LucasESchuster
 
 profile:
   name: "Lucas Eduardo Schuster"
-  tagline: "AI Engineer"
-  company: "Rumo Tech"
-  location: "Brazil"
+  tagline: "FullStack Developer"
+  company: "Sementes Roos"
+  location: "Não-Me-Toque, Rio Grande do Sul 🇧🇷"
   bio: |
     Building robust systems and crafting elegant solutions.
   philosophy: 'Solving one problem at a time, with code and creativity.'
 
 social:
-  email: "vinicius@rumotech.com.br"
-  linkedin: "vinimlo"
+  email: "lucasschusterr@gmail.com"
+  linkedin: "lucas-eduardo-schuster-945535231"
   website: ""
 
 # Galaxy arms represent your core focus areas
 # Each arm spirals out from the center with its own color and tech items
 galaxy_arms:
-  - name: "Web & Cloud"
+  - name: "Frameworks"
     color: "dendrite_violet"
     items:
-      - "TypeScript"
+      - "Laravel"
       - "React"
-      - "Flask"
-      - "AWS / Oracle"
-  - name: "AI & Data"
+      - "NextJS"
+  - name: "DevOps"
     color: "synapse_cyan"
     items:
-      - "Python"
-      - "PyTorch"
-      - "MySQL"
-  - name: "Automation"
+      - "Docker"
+      - "RabbitMQ"
+      - "GitHub Actions"
+      - "Jenkins"
+  - name: "Databases"
     color: "axon_amber"
     items:
-      - "GitHub Actions"
-      - "Linux"
-      - "Docker"
-
-# Featured projects shown as constellation stars
-projects:
-  - repo: "vinimlo/tabAla"
-    arm: 0
-    description: "Salve abas. Organize em coleções. Processe quando quiser."
-  - repo: "vinimlo/gaeia"
-    arm: 1
-    description: "Grupo Autônomo de Estudos em IA"
+      - "Oracle"
+      - "PostgreSQL"
+      - "MySQL"
+      - "SQLite"
 
 # Theme color overrides (optional — defaults to deep space palette)
 theme:
