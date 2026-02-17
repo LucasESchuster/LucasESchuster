@@ -41,6 +41,15 @@ galaxy_arms:
       - "MySQL"
       - "SQLite"
 
+# Featured projects shown as constellation stars
+projects:
+  - repo: "vinimlo/tabAla"
+    arm: 0
+    description: "Salve abas. Organize em coleções. Processe quando quiser."
+  - repo: "vinimlo/gaeia"
+    arm: 1
+    description: "Grupo Autônomo de Estudos em IA"
+
 # Theme color overrides (optional — defaults to deep space palette)
 theme:
   void: "#080c14"
